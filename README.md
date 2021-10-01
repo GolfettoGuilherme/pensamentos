@@ -16,9 +16,10 @@
 </p>
 
 <h1 align="center">
-  <img alt="Home" src="https://github.com/GolfettoGuilherme/Pensamentos/blob/main/Marvel%20Search/Assets/home.png" width="400" />
-  <img alt="Search" src="https://github.com/GolfettoGuilherme/Pensamentos/blob/main/Marvel%20Search/Assets/search.png" width="400" />
-  <img alt="Hero Description" src="https://github.com/GolfettoGuilherme/Pensamentos/blob/main/Marvel%20Search/Assets/hero_description.png" width="400" />
+  <img alt="Splash" src="https://raw.githubusercontent.com/GolfettoGuilherme/pensamentos/main/screenshots/1.png" width="400" />
+  <img alt="Home Screen" src="https://raw.githubusercontent.com/GolfettoGuilherme/pensamentos/main/screenshots/2.png" width="400" />
+  <img alt="Config Screen" src="https://raw.githubusercontent.com/GolfettoGuilherme/pensamentos/main/screenshots/3.png" width="400" />
+  <img alt="Settings on device" src="https://raw.githubusercontent.com/GolfettoGuilherme/pensamentos/main/screenshots/4.png" width="400" />
 </h1>
 
 ## :page_with_curl: Sobre
